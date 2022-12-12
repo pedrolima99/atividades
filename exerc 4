@@ -1,0 +1,28 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 21/11/2022
+Var
+// Seção de Declarações das variáveis 
+numero1:real
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval("digite numa distancia em metros")
+leia(numero1)
+escreval("a distancia de",numero1," mketros em km equivale a ",numero1/1000)
+escreval("em HM é: ",numero1/100)
+escreval("em DAM é: ",numero1/10)
+escreval("em DM é: ",numero1*10)
+escreval("em CM é: ",numero1*100)
+escreval("em MM é: ",numero1*1000)
+
+
+
+
+Fimalgoritmo
+Footer
+© 2022 GitHub, Inc.
